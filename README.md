@@ -5,3 +5,4 @@ I'm making my own CSS reset based on others I have seen, combining what I like, 
 + Started with Eric Meyer's reset (http://meyerweb.com/eric/tools/css/reset/).  
 + Removed deprecated HTML elements.
 + Add selections from Normalize.css.
++ Add selections from undohtml.css,
